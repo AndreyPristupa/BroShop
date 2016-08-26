@@ -1,0 +1,23 @@
+{
+  "ambientDependencies": {
+    "body-parser": "registry:dt/body-parser#0.0.0+20160317120654",
+    "express": "registry:dt/express#4.0.0+20160317120654",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#0.0.0+20160322035842",
+    "mime": "registry:dt/mime#0.0.0+20160316155526",
+    "node": "registry:dt/node#4.0.0+20160319033040",
+    "serve-static": "registry:dt/serve-static#0.0.0+20160317120654"
+  },
+  "globalDependencies": {
+    "connect-mongo": "registry:dt/connect-mongo#0.0.0+20160317120654",
+    "express-serve-static-core": "registry:dt/express-serve-static-core#4.0.0+20160819131900",
+    "express-session": "registry:dt/express-session#0.0.0+20160819134112",
+    "mongoose": "registry:dt/mongoose#4.5.4+20160807120805",
+    "node": "registry:dt/node#6.0.0+20160823142437"
+  },
+  "dependencies": {
+    "body-parser": "registry:npm/body-parser#1.15.2+20160815132839",
+    "express": "registry:npm/express#4.14.0+20160815112707",
+    "mongoose": "registry:npm/mongoose#4.3.5+20160628072220",
+    "serve-static": "registry:npm/serve-static#1.11.1+20160810053450"
+  }
+}
